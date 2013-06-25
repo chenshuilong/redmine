@@ -218,8 +218,8 @@ zh:
   field_description: 描述
   field_summary: 摘要
   field_is_required: 必填
-  field_firstname: 名字
-  field_lastname: 姓氏
+  field_firstname: 姓氏
+  field_lastname: 名字
   field_mail: 邮件地址
   field_filename: 文件
   field_filesize: 大小
@@ -271,8 +271,8 @@ zh:
   field_account: 帐号
   field_base_dn: Base DN
   field_attr_login: 登录名属性
-  field_attr_firstname: 名字属性
-  field_attr_lastname: 姓氏属性
+  field_attr_firstname: 姓氏属性
+  field_attr_lastname: 名字属性
   field_attr_mail: 邮件属性
   field_onthefly: 即时用户生成
   field_start_date: 开始日期
